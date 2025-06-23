@@ -22,7 +22,7 @@ Commission Tracker System is a web application built with Laravel that helps bus
 
 ## Technology Stack
 
-- **Backend:** Laravel 10.x
+- **Backend:** Laravel 12.0
 - **Frontend:** Blade templates with Bootstrap and Vue.js components
 - **Database:** MySQL
 - **Authentication:** Laravel Sanctum/Fortify
