@@ -93,4 +93,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-<p align="center">Developed by Angelo Morales</p>
+<div align="center"> <p>Angelo Morales © 2025 Commission Tracker</p> </div>
